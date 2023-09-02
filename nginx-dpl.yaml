@@ -26,11 +26,8 @@ metadata:
   name: nginx-service
 spec:
   selector:
-    app: nginx
-  type: NodePort  
+    app: nginx 
   ports:
     - protocol: TCP
       port: 8080
-      targetPort: 80
-      nodePort: 30003
-      
+      targetPort: 80      

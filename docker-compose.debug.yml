@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  k8practice:
+    image: k8practice
+    build:
+      context: .
+      dockerfile: ./Dockerfile
