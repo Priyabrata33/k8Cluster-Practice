@@ -1,2 +1,2 @@
 # k8Cluster-Practice
-Here ia some K8cluster file while I am learning Docker and 
+Here is some K8cluster files while I am learning Docker and  K8
